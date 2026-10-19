@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parent.parent
 VERIFIED = "2026-10-19"
 THUMB_NOTE = "Wikimedia Commons 1280px thumbnail; no further edits"
-STATUS = "public GitHub Pages publication authorized; live URL will be added after deployment verification."
+STATUS = "live on GitHub Pages at https://git.marcuschiu.com/f1-car-generations/ (public repository: https://github.com/TheRealMarcusChiu/f1-car-generations). The GitHub Pages HTTPS-enforcement setting is enabled."
 
 # The six verified sources (id -> URL). The site may not cite anything else.
 EXPECTED_SOURCES = {

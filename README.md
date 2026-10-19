@@ -2,7 +2,7 @@
 
 A one-page editorial timeline of six turning points in the shape of Formula 1 cars, plus a small gallery of the cars in between. It is an editorially selected set of milestones, not an official or exhaustive taxonomy of every season or chassis.
 
-**Status:** public GitHub Pages publication authorized; live URL will be added after deployment verification.
+**Status:** live on GitHub Pages at https://git.marcuschiu.com/f1-car-generations/ (public repository: https://github.com/TheRealMarcusChiu/f1-car-generations). The GitHub Pages HTTPS-enforcement setting is enabled.
 
 ## Layout
 
@@ -34,6 +34,7 @@ Latest independent verification (current):
 - **Tests** — `Ran 16 tests … OK`.
 - **Images** — all 11 local JPEGs decode and match the dimensions recorded in `data/images.json`.
 - **Browser check** — all 11 images load; no horizontal overflow at desktop width or at 360px mobile width.
+- **GitHub Pages** — Pages API reports status `built`, serves the canonical custom-domain URL https://git.marcuschiu.com/f1-car-generations/, and reports `https_enforced: true`. A direct HTTP request to http://git.marcuschiu.com/f1-car-generations/ also returned 200 (no redirect observed), so HTTP-to-HTTPS redirection is not claimed.
 
 Earlier runs (historical, superseded by the above):
 
