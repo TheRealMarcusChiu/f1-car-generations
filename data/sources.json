@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f1-1950-vs-2020",
+    "title": "1950 vs 2020: Cars, drivers, safety and pit stops – how F1 has changed in 70 years",
+    "publisher": "Formula 1 (formula1.com)",
+    "url": "https://www.formula1.com/en/latest/article/1950-vs-2020-cars-drivers-safety-and-pitstops-how-f1-has-changed-in-70-years.62ITx6LlIY3qgzTctXgz1j",
+    "milestone": "m-1950",
+    "claim": "The Alfa Romeo 158 was front-engined, rear-wheel drive, and used a 1.5-litre supercharged inline-eight.",
+    "caveat": "Describes one representative championship car; not a statement about the layout of every 1950 car.",
+    "verified": "2026-10-19"
+  },
+  {
+    "id": "f1-lotus-79",
+    "title": "TECH TUESDAY: The Lotus 79, F1’s ground effect marvel",
+    "publisher": "Formula 1 (formula1.com)",
+    "url": "https://www.formula1.com/en/latest/article/tech-tuesday-the-lotus-79-f1s-ground-effect-marvel.sAD9PXt7mC8iMSwwe6CCw",
+    "milestone": "m-1977",
+    "claim": "The Lotus 78 made the ground-effect breakthrough for open-wheel F1 and ushered in that era; its successor, the Lotus 79, became the first ground-effect car to win the world championship, with Mario Andretti in 1978.",
+    "caveat": "Mechanism described only in general terms (underbody venturi shaping and side skirts). Also cited for framing 2022 as a new ground-effect era; does not establish that the 2022 system is mechanically identical.",
+    "verified": "2026-10-19"
+  },
+  {
+    "id": "f1-2014-regs",
+    "title": "A racing revolution? Understanding 2014’s technical regulations",
+    "publisher": "Formula 1 (formula1.com)",
+    "url": "https://www.formula1.com/en/latest/article/a-racing-revolution-understanding-2014s-technical-regulations.1bTbN3OAEksY00PVE62KvC",
+    "milestone": "m-2014",
+    "claim": "The 2014 rules introduced a 1.6-litre V6 turbo power unit with ERS-K and ERS-H; the article reports a 100 kg race-fuel limit.",
+    "caveat": "The article's approximate power figures are not repeated as precise specifications.",
+    "verified": "2026-10-19"
+  },
+  {
+    "id": "f1-halo-2018",
+    "title": "Halo protection system to be introduced for 2018",
+    "publisher": "Formula 1 (formula1.com)",
+    "url": "https://www.formula1.com/en/latest/article/halo-protection-system-to-be-introduced-for-2018.2jhITmhSiwkKwOAWOG0UM6",
+    "milestone": "m-2018",
+    "claim": "All 2018 cars were to be fitted with the Halo; the FIA announcement described its purpose as reducing the risk of head injury from debris or other objects.",
+    "caveat": "Pre-season announcement of the requirement; no claims about later incidents are made from this source.",
+    "verified": "2026-10-19"
+  },
+  {
+    "id": "f1-2022-floors",
+    "title": "TECH TUESDAY: Why ripples and curls adorn the floors of the 2022 cars",
+    "publisher": "Formula 1 (formula1.com)",
+    "url": "https://www.formula1.com/en/latest/article/tech-tuesday-why-ripples-and-curls-adorn-the-floors-of-the-2022-cars.1OHf3EXwhbt521IpbXUtVt",
+    "milestone": "m-2022",
+    "claim": "Under the 2022 rules the floor, with its venturi tunnels, is central to how the cars generate downforce, and teams shape the floor edges to manage airflow along the sides of the floor.",
+    "caveat": "Not evidence that the 2022 system is mechanically identical to 1970s ground effect; 'new ground-effect era' framing is paired with the Lotus 79 citation.",
+    "verified": "2026-10-19"
+  },
+  {
+    "id": "f1-2026-guide",
+    "title": "The beginner’s guide to the 2026 Formula 1 regulations",
+    "publisher": "Formula 1 (formula1.com)",
+    "url": "https://www.formula1.com/en/latest/article/the-beginners-guide-to-the-2026-regulations.6j0tS0hrHG2T01tpmK6XYz",
+    "milestone": "m-2026",
+    "claim": "2026 power is roughly half electrical and half internal-combustion, with Advanced Sustainable Fuels; full-time active aero adjusts both wings, with a low-drag open/flattened mode on straights and a closed, downforce mode in corners.",
+    "caveat": "Power split is described as approximate. Presented as the rules era in force in 2026, not a proposal.",
+    "verified": "2026-10-19"
+  }
+]
